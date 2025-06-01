@@ -34,6 +34,19 @@ pip install -r requirements.txt
 
 ---
 
+## 📂 Wordlist (rockyou.txt)
+
+Due to file size restrictions, `rockyou.txt` is **not included** in this repository.
+
+You can download it from:
+- 🔗 [Kali Linux Path](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt)  
+- 📁 On Kali: `/usr/share/wordlists/rockyou.txt.gz`  
+  (Use `gunzip rockyou.txt.gz` to extract)
+
+Place it in the same directory as `john4py.py`.
+
+---
+
 ## 🧪 Usage
 
 ```bash
