@@ -15,11 +15,9 @@
 
 ---
 
-## 📸 Previews
+## 📸 Preview
 
 ![tool_preview_image](preview.png)
-
-▶️ [Click here to watch the demo](https://github.com/Muthukumaran-Official/john4py/blob/main/preview.mp4)
 
 ---
 
